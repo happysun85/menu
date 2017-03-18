@@ -1,0 +1,81 @@
+#detail {
+  height: 100%;
+}
+#detail .top {
+  position: absolute;
+  width: 620px;
+}
+#detail .top .title {
+  font-size: 36px;
+}
+#detail .top .btns {
+  float: right;
+  width: 163px;
+}
+#detail .top .btns > div {
+  display: inline-block;
+  width: 79px;
+  height: 30px;
+}
+#detail .top .btns > div.confirm {
+  background: url('../imgs/btn_ok.jpg');
+}
+#detail .top .btns > div.back {
+  background: url('../imgs/btn_back.jpg');
+}
+#detail .count {
+  position: absolute;
+  top: 112px;
+}
+#detail .count span {
+  font-family: 'arial';
+  font-size: 16px;
+}
+#detail .list {
+  position: absolute;
+  top: 200px;
+  left: 50%;
+  margin-left: -310px;
+}
+#detail .list .item {
+  position: relative;
+  margin-bottom: 70px;
+  margin-right: 65px;
+  width: 160px;
+  display: inline-block;
+}
+#detail .list li.cr {
+  margin-right: 0;
+}
+#detail .list .item > div {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 160px;
+  height: 160px;
+  background: url('../imgs/btn_sel.png') no-repeat left top;
+}
+#detail .list .item .checked{
+  display: block;
+}
+/*ºáÆÁÄ»*/
+@media screen and (min-width: 768px) {
+  #detail .top{
+    top: 40px;
+    left: 200px;
+  }
+  #detail .count{
+    left:200px;
+  }
+}
+/*ÊúÆÁ*/
+@media screen and (max-width: 768px) {
+  #detail .top{
+    left: 74px;
+  }
+  #detail .count{
+     left:74px;
+
+   }
+}

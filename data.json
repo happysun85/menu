@@ -1,0 +1,1877 @@
+{
+  "album":[
+    {
+      "title": "佳偶天成",
+      "src": "imgs/card1.png",
+      "titleSrc": "imgs/title_1.png",
+      "price": "4580",
+      "introduceSrc": "imgs/detail_1.png",
+      "cooker":["imgs/cstj1_1.png","imgs/cstj1_2.png"],
+      "print_bg":"imgs/print_bg1.jpg",
+      "dishes": [
+        {
+          "title": "海鲜贝壳类",
+          "menuSrc": "imgs/menu_item_haixian.png",
+          "menuSrc_sel": "imgs/menu_item_haixian_sel.png",
+          "shooseSrc": "imgs/choose_haixian.png",
+          "titleSrc": "imgs/title_haixian.png",
+          "max": 1,
+          "list": [
+            {
+              "title": "白花鱼",
+              "img": "imgs/bhy.png",
+              "price": ""
+            },
+            {
+              "title": "白灼虾",
+              "img": "imgs/bzx.png",
+              "price": ""
+            },
+            {
+              "title": "红油鱼",
+              "img": "imgs/hyy.png",
+              "price": ""
+            },
+            {
+              "title": "椒盐基围虾",
+              "img": "imgs/jyjwx.png",
+              "price": ""
+            },
+            {
+              "title": "龙井茶皇虾",
+              "img": "imgs/ljchx.png",
+              "price": ""
+            },
+            {
+              "title": "清蒸多宝鱼",
+              "img": "imgs/qzdby.png",
+              "price": ""
+            },
+            {
+              "title": "清蒸桂花鱼",
+              "img": "imgs/qzghy.png",
+              "price": ""
+            },
+            {
+              "title": "清蒸笋壳鱼",
+              "img": "imgs/qzsky.png",
+              "price": ""
+            },
+            {
+              "title": "清蒸鲟龙鱼",
+              "img": "imgs/qzxly.png",
+              "price": ""
+            },
+            {
+              "title": "清蒸左口鱼",
+              "img": "imgs/qzzky.png",
+              "price": ""
+            },
+            {
+              "title": "深海鲈鱼",
+              "img": "imgs/shly.png",
+              "price": ""
+            },
+            {
+              "title": "豉油皇虾",
+              "img": "imgs/cyhx.png",
+              "price": ""
+            },
+            {
+              "title": "蒜蓉蒸元贝",
+              "img": "imgs/srzyb.png",
+              "price": ""
+            },
+            {
+              "title": "泰皇咖喱蟹",
+              "img": "imgs/thglx.png",
+              "price": ""
+            },
+            {
+              "title": "香辣膏蟹",
+              "img": "imgs/xlgx.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "葷菜",
+          "menuSrc": "imgs/menu_item_huncai.png",
+          "menuSrc_sel": "imgs/menu_item_huncai_sel.png",
+          "shooseSrc": "imgs/choose_huncai.png",
+          "titleSrc": "imgs/title_huncai.png",
+          "max": 4,
+          "list": [
+            {
+              "title": "白灵菇扣鹅掌",
+              "img": "imgs/blgkez.png",
+              "price": ""
+            },
+            {
+              "title": "碧绿花椒片",
+              "img": "imgs/blhjp.png",
+              "price": ""
+            },
+            {
+              "title": "茶树菇爽肉",
+              "img": "imgs/csgsr.png",
+              "price": ""
+            },
+            {
+              "title": "德国脆皮猪手",
+              "img": "imgs/dgcpzs.png",
+              "price": ""
+            },
+            {
+              "title": "鹅肝酱爆健康菌",
+              "img": "imgs/egjbjkj.png",
+              "price": ""
+            },
+            {
+              "title": "果木烧鸭",
+              "img": "imgs/gmsy.png",
+              "price": ""
+            },
+            {
+              "title": "海皇粉丝煲",
+              "img": "imgs/hhfsb.png",
+              "price": ""
+            },
+            {
+              "title": "杭椒牛柳",
+              "img": "imgs/hjnl.png",
+              "price": ""
+            },
+            {
+              "title": "辣子鸡",
+              "img": "imgs/lzj.png",
+              "price": ""
+            },
+            {
+              "title": "卤水拼盘",
+              "img": "imgs/lspp.png",
+              "price": ""
+            },
+            {
+              "title": "雀巢海中宝",
+              "img": "imgs/qchzb.png",
+              "price": ""
+            },
+            {
+              "title": "烧味拼盘",
+              "img": "imgs/swpp.png",
+              "price": ""
+            },
+            {
+              "title": "生炒牛仔骨",
+              "img": "imgs/scnzg.png",
+              "price": ""
+            },
+            {
+              "title": "四喜丸子",
+              "img": "imgs/sxwz.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "涼菜",
+          "menuSrc": "imgs/menu_item_liangcai.png",
+          "menuSrc_sel": "imgs/menu_item_liangcai_sel.png",
+          "shooseSrc": "imgs/choose_liangcai.png",
+          "titleSrc": "imgs/title_liangcai.png",
+          "max": 6,
+          "list": [
+            {
+              "title": "白菜拌海蜇",
+              "img": "imgs/bcbhz.png",
+              "price": ""
+            },
+            {
+              "title": "北极贝拌荷兰豆",
+              "img": "imgs/bjbbhld.png",
+              "price": ""
+            },
+            {
+              "title": "川北凉粉",
+              "img": "imgs/cblf.png",
+              "price": ""
+            },
+            {
+              "title": "夫妻肺片",
+              "img": "imgs/fqfp.png",
+              "price": ""
+            },
+            {
+              "title": "桂花枣子芋艿",
+              "img": "imgs/ghzzyn.png",
+              "price": ""
+            },
+            {
+              "title": "话梅排骨",
+              "img": "imgs/hmpg.png",
+              "price": ""
+            },
+            {
+              "title": "话梅小番茄",
+              "img": "imgs/hmxfq.png",
+              "price": ""
+            },
+            {
+              "title": "健康海藻",
+              "img": "imgs/jkhz.png",
+              "price": ""
+            },
+            {
+              "title": "椒麻鸡",
+              "img": "imgs/jmj.png",
+              "price": ""
+            },
+            {
+              "title": "椒香土鸡爪",
+              "img": "imgs/jxtjz.png",
+              "price": ""
+            },
+            {
+              "title": "腊八豆酱鸭",
+              "img": "imgs/lbdjy.png",
+              "price": ""
+            },
+            {
+              "title": "蓝莓山药",
+              "img": "imgs/lmsy.png",
+              "price": ""
+            },
+            {
+              "title": "沙拉大拌菜",
+              "img": "imgs/sldbc.png",
+              "price": ""
+            },
+            {
+              "title": "爽口藕节",
+              "img": "imgs/skoj.png",
+              "price": ""
+            },
+            {
+              "title": "水晶肘子",
+              "img": "imgs/sjzz.png",
+              "price": ""
+            },
+            {
+              "title": "外婆醉鱼",
+              "img": "imgs/wpzy.png",
+              "price": ""
+            },
+            {
+              "title": "鲜椒炝草菇",
+              "img": "imgs/xjqcg.png",
+              "price": ""
+            },
+            {
+              "title": "香椿拌豆干",
+              "img": "imgs/xcbdg.png",
+              "price": ""
+            },
+            {
+              "title": "珍珠螺蚕豆",
+              "img": "imgs/zzlcd.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "水果",
+          "menuSrc": "imgs/menu_item_shuiguo.png",
+          "menuSrc_sel": "imgs/menu_item_shuiguo_sel.png",
+          "shooseSrc": "imgs/choose_shuiguo.png",
+          "titleSrc": "imgs/title_shuiguo.png",
+          "max": 3,
+          "list": [
+            {
+              "title": "草莓",
+              "img": "imgs/cm.png",
+              "price": ""
+            },
+            {
+              "title": "橙子",
+              "img": "imgs/cz.png",
+              "price": ""
+            },
+            {
+              "title": "哈密瓜",
+              "img": "imgs/hmg.png",
+              "price": ""
+            },
+            {
+              "title": "火龙果",
+              "img": "imgs/hlg.png",
+              "price": ""
+            },
+            {
+              "title": "猕猴桃",
+              "img": "imgs/mht.png",
+              "price": ""
+            },
+            {
+              "title": "西瓜",
+              "img": "imgs/xg.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "素菜",
+          "menuSrc": "imgs/menu_item_sucai.png",
+          "menuSrc_sel": "imgs/menu_item_sucai_sel.png",
+          "shooseSrc": "imgs/choose_sucai.png",
+          "titleSrc": "imgs/title_sucai.png",
+          "max": 2,
+          "list": [
+            {
+              "title": "百合蒸南瓜",
+              "img": "imgs/bhzng.png",
+              "price": ""
+            },
+            {
+              "title": "淮山木耳炒香芹",
+              "img": "imgs/hsmecxq.png",
+              "price": ""
+            },
+            {
+              "title": "姜汁芥兰",
+              "img": "imgs/jzjl.png",
+              "price": ""
+            },
+            {
+              "title": "清炒西兰花",
+              "img": "imgs/qcxlh.png",
+              "price": ""
+            },
+            {
+              "title": "上汤时蔬",
+              "img": "imgs/stss.png",
+              "price": ""
+            },
+            {
+              "title": "生炒广东菜心",
+              "img": "imgs/scgdcx.png",
+              "price": ""
+            },
+            {
+              "title": "蒜蓉蒸胜瓜",
+              "img": "imgs/srzsg.png",
+              "price": ""
+            },
+            {
+              "title": "鲜菇时蔬",
+              "img": "imgs/xgss.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "汤类",
+          "menuSrc": "imgs/menu_item_tanglei.png",
+          "menuSrc_sel": "imgs/menu_item_tanglei_sel.png",
+          "shooseSrc": "imgs/choose_tanglei.png",
+          "titleSrc": "imgs/title_tanglei.png",
+          "max": 1,
+          "list": [
+            {
+              "title": "鲍参翅肚羹",
+              "img": "imgs/bscdg.png",
+              "price": ""
+            },
+            {
+              "title": "淮山枸杞炖老鸽",
+              "img": "imgs/hsgqdlg.png",
+              "price": ""
+            },
+            {
+              "title": "奶油蘑菇汤",
+              "img": "imgs/nymgt.png",
+              "price": ""
+            },
+            {
+              "title": "泰式冬阴功汤",
+              "img": "imgs/tsdygt.png",
+              "price": ""
+            },
+            {
+              "title": "药材炖老鸭",
+              "img": "imgs/ycdly.png",
+              "price": ""
+            },
+            {
+              "title": "竹笙鸡翅",
+              "img": "imgs/zsjc.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "甜点类",
+          "menuSrc": "imgs/menu_item_tiandianlei.png",
+          "menuSrc_sel": "imgs/menu_item_tiandianlei_sel.png",
+          "shooseSrc": "imgs/choose_tiandianlei.png",
+          "titleSrc": "imgs/title_tiandianlei.png",
+          "max": 2,
+          "list": [
+            {
+              "title": "大理石蛋糕",
+              "img": "imgs/dlsdg.png",
+              "price": ""
+            },
+            {
+              "title": "宫廷豌豆黄",
+              "img": "imgs/gtwdh.png",
+              "price": ""
+            },
+            {
+              "title": "雷沙汤丸",
+              "img": "imgs/lstw.png",
+              "price": ""
+            },
+            {
+              "title": "绿茶糕",
+              "img": "imgs/lcg.png",
+              "price": ""
+            },
+            {
+              "title": "酥皮点心",
+              "img": "imgs/spdx.png",
+              "price": ""
+            },
+            {
+              "title": "紫薯卷",
+              "img": "imgs/zsj.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "主菜",
+          "menuSrc": "imgs/menu_item_zhucai.png",
+          "menuSrc_sel": "imgs/menu_item_zhucai_sel.png",
+          "shooseSrc": "imgs/choose_zhucai.png",
+          "titleSrc": "imgs/title_zhucai.png",
+          "max": 1,
+          "list": [
+            {
+              "title": "脆皮鸡",
+              "img": "imgs/cpj.png",
+              "price": ""
+            },
+            {
+              "title": "金牌牛肋骨",
+              "img": "imgs/jpnlg.png",
+              "price": ""
+            },
+            {
+              "title": "手撕羊排",
+              "img": "imgs/ssyp.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "主食",
+          "menuSrc": "imgs/menu_item_zhushi.png",
+          "menuSrc_sel": "imgs/menu_item_zhushi_sel.png",
+          "shooseSrc": "imgs/choose_zhushi.png",
+          "titleSrc": "imgs/title_zhushi.png",
+          "max": 1,
+          "list": [
+            {
+              "title": "凤梨炒饭",
+              "img": "imgs/flcf.png",
+              "price": ""
+            },
+            {
+              "title": "黑椒牛柳炒意粉",
+              "img": "imgs/hjnlcyf.png",
+              "price": ""
+            },
+            {
+              "title": "王子炒饭",
+              "img": "imgs/wzcf.png",
+              "price": ""
+            },
+            {
+              "title": "扬州炒饭",
+              "img": "imgs/yzcf.png",
+              "price": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "百年好合",
+      "src": "imgs/card2.png",
+      "titleSrc": "imgs/title_2.png",
+      "price": "5280",
+      "introduceSrc": "imgs/detail_2.png",
+      "cooker":["imgs/cstj2_1.png","imgs/cstj2_2.png"],
+      "print_bg":"imgs/print_bg2.jpg",
+      "dishes": [
+        {
+          "title": "海鲜贝壳类",
+          "menuSrc": "imgs/menu_item_haixian.png",
+          "menuSrc_sel": "imgs/menu_item_haixian_sel.png",
+          "shooseSrc": "imgs/choose_haixian.png",
+          "titleSrc": "imgs/title_haixian.png",
+          "max": 1,
+          "list": [
+            {
+              "title": "白灼九节虾",
+              "img": "imgs/bhy.png",
+              "price": ""
+            },
+            {
+              "title": "避风塘炒蟹",
+              "img": "imgs/bzx.png",
+              "price": ""
+            },
+            {
+              "title": "海宴香辣蟹",
+              "img": "imgs/hyy.png",
+              "price": ""
+            },
+            {
+              "title": "姜汁蒸龙利鱼",
+              "img": "imgs/jzzlly.png",
+              "price": ""
+            },
+            {
+              "title": "椒盐基围虾",
+              "img": "imgs/ljchx.png",
+              "price": ""
+            },
+            {
+              "title": "麒麟蒸黄鱼",
+              "img": "imgs/qzdby.png",
+              "price": ""
+            },
+            {
+              "title": "清蒸海红斑",
+              "img": "imgs/qzhhb.png",
+              "price": ""
+            },
+            {
+              "title": "清蒸老虎斑",
+              "img": "imgs/qzlhb.png",
+              "price": ""
+            },
+            {
+              "title": "豉汁蒸鲍鱼",
+              "img": "imgs/czzby.png",
+              "price": ""
+            },
+            {
+              "title": "蒜蓉蒸元贝",
+              "img": "imgs/srzyb.png",
+              "price": ""
+            },
+            {
+              "title": "泰皇咖喱蟹",
+              "img": "imgs/thglx.png",
+              "price": ""
+            },
+            {
+              "title": "油焖笋壳鱼",
+              "img": "imgs/ymsky.png",
+              "price": ""
+            },
+            {
+              "title": "芝士焗波士顿龙虾",
+              "img": "imgs/zsjbsdlx.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "葷菜",
+          "menuSrc": "imgs/menu_item_huncai.png",
+          "menuSrc_sel": "imgs/menu_item_huncai_sel.png",
+          "shooseSrc": "imgs/choose_huncai.png",
+          "titleSrc": "imgs/title_huncai.png",
+          "max": 5,
+          "list": [
+            {
+              "title": "薄荷黑椒烤鸡翅",
+              "img": "imgs/bhhjkjc.png",
+              "price": ""
+            },
+            {
+              "title": "脆皮鸡配牛油果",
+              "img": "imgs/cpjpnyg.png",
+              "price": ""
+            },
+            {
+              "title": "鹅肝酱龙吐珠",
+              "img": "imgs/egjltz.png",
+              "price": ""
+            },
+            {
+              "title": "花胶扣鹅掌",
+              "img": "imgs/hjkez.png",
+              "price": ""
+            },
+            {
+              "title": "金牌牛肋骨",
+              "img": "imgs/jpnlg.png",
+              "price": ""
+            },
+            {
+              "title": "京都骨",
+              "img": "imgs/jdg.png",
+              "price": ""
+            },
+            {
+              "title": "咖喱焖牛腩",
+              "img": "imgs/glmnn.png",
+              "price": ""
+            },
+            {
+              "title": "美国响螺片捞鸡",
+              "img": "imgs/mgxlplj.png",
+              "price": ""
+            },
+            {
+              "title": "烹汁鳕鱼鹅肝",
+              "img": "imgs/pzxyeg.png",
+              "price": ""
+            },
+            {
+              "title": "葡萄牙葡国鸡",
+              "img": "imgs/ptypgj.png",
+              "price": ""
+            },
+            {
+              "title": "雀巢海中宝",
+              "img": "imgs/qchzb.png",
+              "price": ""
+            },
+            {
+              "title": "寿司拼烧肉",
+              "img": "imgs/sspsr.png",
+              "price": ""
+            },
+            {
+              "title": "四喜丸子",
+              "img": "imgs/sxwz.png",
+              "price": ""
+            },
+            {
+              "title": "蒜香骨拼脆奶",
+              "img": "imgs/sxgpcn.png",
+              "price": ""
+            },
+            {
+              "title": "西式烩牛肉",
+              "img": "imgs/xshnr.png",
+              "price": ""
+            },
+            {
+              "title": "西汁虾仁腰果",
+              "img": "imgs/xzxryg.png",
+              "price": ""
+            },
+            {
+              "title": "香草烤羊排",
+              "img": "imgs/xckyp.png",
+              "price": ""
+            },
+            {
+              "title": "香辣猪手",
+              "img": "imgs/xlzs.png",
+              "price": ""
+            },
+            {
+              "title": "杏香牛仔粒",
+              "img": "imgs/xxnzl.png",
+              "price": ""
+            },
+            {
+              "title": "芝士口蘑配沙拉",
+              "img": "imgs/zskmpsl.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "涼菜",
+          "menuSrc": "imgs/menu_item_liangcai.png",
+          "menuSrc_sel": "imgs/menu_item_liangcai_sel.png",
+          "shooseSrc": "imgs/choose_liangcai.png",
+          "titleSrc": "imgs/title_liangcai.png",
+          "max": 8,
+          "list": [
+            {
+              "title": "凤梨香橙虾",
+              "img": "imgs/flxcx.png",
+              "price": ""
+            },
+            {
+              "title": "桂花糖藕",
+              "img": "imgs/ghto.png",
+              "price": ""
+            },
+            {
+              "title": "话梅排骨",
+              "img": "imgs/hmpg.png",
+              "price": ""
+            },
+            {
+              "title": "吉祥大丰收",
+              "img": "imgs/jxdfs.png",
+              "price": ""
+            },
+            {
+              "title": "金枪鱼沙拉",
+              "img": "imgs/jqysl.png",
+              "price": ""
+            },
+            {
+              "title": "酒鬼牛尾",
+              "img": "imgs/jgnw.png",
+              "price": ""
+            },
+            {
+              "title": "腊八豆酱鸭",
+              "img": "imgs/lbdjy.png",
+              "price": ""
+            },
+            {
+              "title": "里昂那肉拼盘",
+              "img": "imgs/lanrpp.png",
+              "price": ""
+            },
+            {
+              "title": "木瓜杏仁露",
+              "img": "imgs/mgxrl.png",
+              "price": ""
+            },
+            {
+              "title": "牛油果沙拉",
+              "img": "imgs/nygsl.png",
+              "price": ""
+            },
+            {
+              "title": "青瓜海蜇头",
+              "img": "imgs/qghzt.png",
+              "price": ""
+            },
+            {
+              "title": "水晶鹅肝",
+              "img": "imgs/sjeg.png",
+              "price": ""
+            },
+            {
+              "title": "鲜虾拌百合",
+              "img": "imgs/xxbbh.png",
+              "price": ""
+            },
+            {
+              "title": "香酥土豆球",
+              "img": "imgs/xstdq.png",
+              "price": ""
+            },
+            {
+              "title": "小南瓜黑豆",
+              "img": "imgs/xnghd.png",
+              "price": ""
+            },
+            {
+              "title": "杏仁苦菊",
+              "img": "imgs/xrkj.png",
+              "price": ""
+            },
+            {
+              "title": "野香菜牛腱子",
+              "img": "imgs/yxcnjz.png",
+              "price": ""
+            },
+            {
+              "title": "招牌炸带鱼",
+              "img": "imgs/zpzdy.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "水果",
+          "menuSrc": "imgs/menu_item_shuiguo.png",
+          "menuSrc_sel": "imgs/menu_item_shuiguo_sel.png",
+          "shooseSrc": "imgs/choose_shuiguo.png",
+          "titleSrc": "imgs/title_shuiguo.png",
+          "max": 4,
+          "list": [
+            {
+              "title": "草莓",
+              "img": "imgs/cm.png",
+              "price": ""
+            },
+            {
+              "title": "橙子",
+              "img": "imgs/cz.png",
+              "price": ""
+            },
+            {
+              "title": "火龙果",
+              "img": "imgs/hlg.png",
+              "price": ""
+            },
+            {
+              "title": "猕猴桃",
+              "img": "imgs/mht.png",
+              "price": ""
+            },
+            {
+              "title": "台湾青枣",
+              "img": "imgs/twqz.png",
+              "price": ""
+            },
+            {
+              "title": "西瓜",
+              "img": "imgs/xg.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "素菜",
+          "menuSrc": "imgs/menu_item_sucai.png",
+          "menuSrc_sel": "imgs/menu_item_sucai_sel.png",
+          "shooseSrc": "imgs/choose_sucai.png",
+          "titleSrc": "imgs/title_sucai.png",
+          "max": 2,
+          "list": [
+            {
+              "title": "百合露笋",
+              "img": "imgs/bhls.png",
+              "price": ""
+            },
+            {
+              "title": "百花瑶柱扒有机花菜苗",
+              "img": "imgs/bhyzbyjhcm.png",
+              "price": ""
+            },
+            {
+              "title": "清炒西兰花",
+              "img": "imgs/qcxlh.png",
+              "price": ""
+            },
+            {
+              "title": "上汤时蔬",
+              "img": "imgs/stss.png",
+              "price": ""
+            },
+            {
+              "title": "生炒广东菜心",
+              "img": "imgs/scgdcx.png",
+              "price": ""
+            },
+            {
+              "title": "西芹百合炒榆耳",
+              "img": "imgs/xqbhcye.png",
+              "price": ""
+            },
+            {
+              "title": "淮山木耳炒香芹",
+              "img": "imgs/hsmecxq.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "汤类",
+          "menuSrc": "imgs/menu_item_tanglei.png",
+          "menuSrc_sel": "imgs/menu_item_tanglei_sel.png",
+          "shooseSrc": "imgs/choose_tanglei.png",
+          "titleSrc": "imgs/title_tanglei.png",
+          "max": 1,
+          "list": [
+            {
+              "title": "鲍参翅肚羹",
+              "img": "imgs/bscdg.png",
+              "price": ""
+            },
+            {
+              "title": "松茸菜胆炖大连鲍",
+              "img": "imgs/srcdddlb.png",
+              "price": ""
+            },
+            {
+              "title": "原味海参汤",
+              "img": "imgs/ywhst.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "甜点类",
+          "menuSrc": "imgs/menu_item_tiandianlei.png",
+          "menuSrc_sel": "imgs/menu_item_tiandianlei_sel.png",
+          "shooseSrc": "imgs/choose_tiandianlei.png",
+          "titleSrc": "imgs/title_tiandianlei.png",
+          "max": 4,
+          "list": [
+            {
+              "title": "菠萝包",
+              "img": "imgs/blb.png",
+              "price": ""
+            },
+            {
+              "title": "大理石蛋糕",
+              "img": "imgs/dlsdg.png",
+              "price": ""
+            },
+            {
+              "title": "宫廷酥皮点心",
+              "img": "imgs/gtspdx.png",
+              "price": ""
+            },
+            {
+              "title": "红枣糕",
+              "img": "imgs/hzg.png",
+              "price": ""
+            },
+            {
+              "title": "金牌南瓜酥",
+              "img": "imgs/jpngs.png",
+              "price": ""
+            },
+            {
+              "title": "葡式蛋挞",
+              "img": "imgs/psdt.png",
+              "price": ""
+            },
+            {
+              "title": "水果塔",
+              "img": "imgs/sgt.png",
+              "price": ""
+            },
+            {
+              "title": "香蕉蛋糕",
+              "img": "imgs/xjdg.png",
+              "price": ""
+            },
+            {
+              "title": "芝士蛋糕",
+              "img": "imgs/zsdg.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "主菜",
+          "menuSrc": "imgs/menu_item_zhucai.png",
+          "menuSrc_sel": "imgs/menu_item_zhucai_sel.png",
+          "shooseSrc": "imgs/choose_zhucai.png",
+          "titleSrc": "imgs/title_zhucai.png",
+          "max": 1,
+          "list": [
+            {
+              "title": "果木烤牛排",
+              "img": "imgs/gmknp.png"
+            },
+            {
+              "title": "乳猪大拼盘",
+              "img": "imgs/rzdpp.png"
+            },
+            {
+              "title": "烧鹅半只",
+              "img": "imgs/sebz.png"
+            },
+            {
+              "title": "烧味大拼盘",
+              "img": "imgs/swdpp.png"
+            }
+          ]
+        },
+        {
+          "title": "主食",
+          "menuSrc": "imgs/menu_item_zhushi.png",
+          "menuSrc_sel": "imgs/menu_item_zhushi_sel.png",
+          "shooseSrc": "imgs/choose_zhushi.png",
+          "titleSrc": "imgs/title_zhushi.png",
+          "max": 1,
+          "list": [
+            {
+              "title": "鹅肝炒饭",
+              "img": "imgs/flcf.png",
+              "price": ""
+            },
+            {
+              "title": "黑椒牛柳炒意粉",
+              "img": "imgs/hjnlcyf.png",
+              "price": ""
+            },
+            {
+              "title": "什锦海鲜披萨",
+              "img": "imgs/sjhxps.png",
+              "price": ""
+            },
+            {
+              "title": "王子炒饭",
+              "img": "imgs/wzcf.png",
+              "price": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "鸾凤和鸣",
+      "src": "imgs/card3.png",
+      "titleSrc": "imgs/title_3.png",
+      "price": "6668",
+      "introduceSrc": "imgs/detail_3.png",
+      "cooker":["imgs/cstj3.png"],
+      "print_bg":"imgs/print_bg3.jpg",
+      "dishes": [
+        {
+          "title": "海鲜贝壳类",
+          "menuSrc": "imgs/menu_item_haixian.png",
+          "menuSrc_sel": "imgs/menu_item_haixian_sel.png",
+          "shooseSrc": "imgs/choose_haixian.png",
+          "titleSrc": "imgs/title_haixian.png",
+          "max": 2,
+          "list": [
+            {
+              "title": "咖喱九节虾",
+              "img": "imgs/gljjx.png"
+            },
+            {
+              "title": "烹汁天皇贝",
+              "img": "imgs/pzthb.png"
+            },
+            {
+              "title": "清蒸海红斑",
+              "img": "imgs/qzhhb.png"
+            },
+            {
+              "title": "清蒸龙利鱼",
+              "img": "imgs/qzlly.png"
+            },
+            {
+              "title": "清蒸西星斑",
+              "img": "imgs/qzxxb.png"
+            },
+            {
+              "title": "清蒸芝麻斑",
+              "img": "imgs/qzzmb.png"
+            },
+            {
+              "title": "上汤焗波士顿龙虾",
+              "img": "imgs/stjbsdlx.png"
+            },
+            {
+              "title": "水晶虾仁.",
+              "img": "imgs/sjxr.png"
+            },
+            {
+              "title": "蒜蓉粉丝蒸元贝皇",
+              "img": "imgs/srfszybh.png"
+            }
+          ]
+        },
+        {
+          "title": "葷菜",
+          "menuSrc": "imgs/menu_item_huncai.png",
+          "menuSrc_sel": "imgs/menu_item_huncai_sel.png",
+          "shooseSrc": "imgs/choose_huncai.png",
+          "titleSrc": "imgs/title_huncai.png",
+          "max": 5,
+          "list": [
+            {
+              "title": "葱烧海参",
+              "img": "imgs/cshs.png"
+            },
+            {
+              "title": "黑椒牛仔粒",
+              "img": "imgs/hjnzl.png"
+            },
+            {
+              "title": "红葱头爆雪牛",
+              "img": "imgs/hctbxn.png"
+            },
+            {
+              "title": "红烧狮子头",
+              "img": "imgs/hsszt.png"
+            },
+            {
+              "title": "花菇皇扣花胶",
+              "img": "imgs/hghkhj.png"
+            },
+            {
+              "title": "芦笋百合羊肚菌",
+              "img": "imgs/lsbhydj.png"
+            },
+            {
+              "title": "牛肝菌爆虾球",
+              "img": "imgs/ngjbxq.png"
+            },
+            {
+              "title": "烹汁鳕鱼鹅肝",
+              "img": "imgs/pzxyeg.png"
+            },
+            {
+              "title": "雀巢海中宝",
+              "img": "imgs/qchzb.png"
+            },
+            {
+              "title": "沙律海鲜卷拼橄榄骨",
+              "img": "imgs/slhxjpglg.png"
+            },
+            {
+              "title": "手撕羊排",
+              "img": "imgs/ssyp.png"
+            },
+            {
+              "title": "鲜松茸爆螺片",
+              "img": "imgs/xsrblp.png"
+            }
+          ]
+        },
+        {
+          "title": "涼菜",
+          "menuSrc": "imgs/menu_item_liangcai.png",
+          "menuSrc_sel": "imgs/menu_item_liangcai_sel.png",
+          "shooseSrc": "imgs/choose_liangcai.png",
+          "titleSrc": "imgs/title_liangcai.png",
+          "max": 8,
+          "list": [
+            {
+              "title": "白玉拌珍珠螺",
+              "img": "imgs/bybzzl.png"
+            },
+            {
+              "title": "花菜拌赤贝",
+              "img": "imgs/hcbcb.png"
+            },
+            {
+              "title": "脆瓜拌鲍鱼仔",
+              "img": "imgs/cgbbyz.png"
+            },
+            {
+              "title": "剁椒海蜇头",
+              "img": "imgs/djhzt.png"
+            },
+            {
+              "title": "风生水起",
+              "img": "imgs/fssq.png"
+            },
+            {
+              "title": "黑椒牛肉拼盘",
+              "img": "imgs/hjnrpp.png"
+            },
+            {
+              "title": "康巴牦牛肉",
+              "img": "imgs/kbmnr.png"
+            },
+            {
+              "title": "泼辣东星斑",
+              "img": "imgs/pldxb.png"
+            },
+            {
+              "title": "水晶山药紫薯",
+              "img": "imgs/sjsyzs.png"
+            },
+            {
+              "title": "泰式虾仁沙拉",
+              "img": "imgs/tsxrsl.png"
+            },
+            {
+              "title": "香椿豆腐",
+              "img": "imgs/xcdf.png"
+            },
+            {
+              "title": "香椿核桃仁",
+              "img": "imgs/xchtr.png"
+            },
+            {
+              "title": "烟熏三文鱼",
+              "img": "imgs/yxswy.png"
+            },
+            {
+              "title": "烟熏鸭胸拼心里美",
+              "img": "imgs/yxyxpxlm.png"
+            }
+          ]
+        },
+        {
+          "title": "水果",
+          "menuSrc": "imgs/menu_item_shuiguo.png",
+          "menuSrc_sel": "imgs/menu_item_shuiguo_sel.png",
+          "shooseSrc": "imgs/choose_shuiguo.png",
+          "titleSrc": "imgs/title_shuiguo.png",
+          "max": 4,
+          "list": [
+            {
+              "title": "草莓",
+              "img": "imgs/cm.png"
+            },
+            {
+              "title": "橙子",
+              "img": "imgs/cz.png"
+            },
+            {
+              "title": "火龙果",
+              "img": "imgs/hlg.png"
+            },
+            {
+              "title": "猕猴桃",
+              "img": "imgs/mht.png"
+            },
+            {
+              "title": "青红提子",
+              "img": "imgs/qhtz.png"
+            },
+            {
+              "title": "台湾",
+              "img": "imgs/twqz.png"
+            },
+            {
+              "title": "西瓜",
+              "img": "imgs/xg.png"
+            }
+          ]
+        },
+        {
+          "title": "素菜",
+          "menuSrc": "imgs/menu_item_sucai.png",
+          "menuSrc_sel": "imgs/menu_item_sucai_sel.png",
+          "shooseSrc": "imgs/choose_sucai.png",
+          "titleSrc": "imgs/title_sucai.png",
+          "max": 4,
+          "list": [
+            {
+              "title": "百合蒸南瓜",
+              "img": "imgs/bhzng.png"
+            },
+            {
+              "title": "百合露笋",
+              "img": "imgs/bhls.png"
+            },
+            {
+              "title": "生炒广东菜心",
+              "img": "imgs/scgdcx.png"
+            },
+            {
+              "title": "田七菌上汤",
+              "img": "imgs/tqjst.png"
+            },
+            {
+              "title": "鲜菇扒有机时蔬",
+              "img": "imgs/xgbyjss.png"
+            },
+            {
+              "title": "竹笙扒有机豆苗",
+              "img": "imgs/zsbyjdm.png"
+            }
+          ]
+        },
+        {
+          "title": "汤类",
+          "menuSrc": "imgs/menu_item_tanglei.png",
+          "menuSrc_sel": "imgs/menu_item_tanglei_sel.png",
+          "shooseSrc": "imgs/choose_tanglei.png",
+          "titleSrc": "imgs/title_tanglei.png",
+          "max": 1,
+          "list": [
+            {
+              "title": "菜胆炖鲍翅",
+              "img": "imgs/cddbc.png",
+              "price": ""
+            },
+            {
+              "title": "花胶炖响螺",
+              "img": "imgs/hjdxl.png",
+              "price": ""
+            },
+            {
+              "title": "鲜松茸炖花胶",
+              "img": "imgs/xsrdhj.png",
+              "price": ""
+            },
+            {
+              "title": "蟹黄烩金钩翅",
+              "img": "imgs/xhhjgc.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "甜点类",
+          "menuSrc": "imgs/menu_item_tiandianlei.png",
+          "menuSrc_sel": "imgs/menu_item_tiandianlei_sel.png",
+          "shooseSrc": "imgs/choose_tiandianlei.png",
+          "titleSrc": "imgs/title_tiandianlei.png",
+          "max": 4,
+          "list": [
+            {
+              "title": "草莓卷",
+              "img": "imgs/cmj.png"
+            },
+            {
+              "title": "橙子蛋糕",
+              "img": "imgs/czdg.png"
+            },
+            {
+              "title": "宫廷豌豆黄",
+              "img": "imgs/gtwdh.png"
+            },
+            {
+              "title": "金牌南瓜酥",
+              "img": "imgs/jpngs.png"
+            },
+            {
+              "title": "绿茶糕",
+              "img": "imgs/lcg.png"
+            },
+            {
+              "title": "千层椰汁糕",
+              "img": "imgs/qcyzg.png"
+            },
+            {
+              "title": "酥皮点心",
+              "img": "imgs/spdx.png"
+            },
+            {
+              "title": "芝士蛋糕",
+              "img": "imgs/zsdg.png"
+            }
+          ]
+        },
+        {
+          "title": "主菜",
+          "menuSrc": "imgs/menu_item_zhucai.png",
+          "menuSrc_sel": "imgs/menu_item_zhucai_sel.png",
+          "shooseSrc": "imgs/choose_zhucai.png",
+          "titleSrc": "imgs/title_zhucai.png",
+          "max": 1,
+          "list": [
+            {
+              "title": "鲍鱼仔闷鸡",
+              "img": "imgs/byzmj.png"
+            },
+            {
+              "title": "煎焗雪花小牛排",
+              "img": "imgs/jjxhxnp.png"
+            },
+            {
+              "title": "金牌烤乳猪",
+              "img": "imgs/jpkrz.png"
+            },
+            {
+              "title": "金牌牛肋骨",
+              "img": "imgs/jpnlg.png"
+            }
+          ]
+        },
+        {
+          "title": "主食",
+          "menuSrc": "imgs/menu_item_zhushi.png",
+          "menuSrc_sel": "imgs/menu_item_zhushi_sel.png",
+          "shooseSrc": "imgs/choose_zhushi.png",
+          "titleSrc": "imgs/title_zhushi.png",
+          "max": 1,
+          "list": [
+            {
+              "title": "鹅肝炒饭",
+              "img": "imgs/egcf.png",
+              "price": ""
+            },
+            {
+              "title": "海皇烩意粉",
+              "img": "imgs/hhhyf.png",
+              "price": ""
+            },
+            {
+              "title": "黑鱼子酱炒饭",
+              "img": "imgs/hyzjcf.png",
+              "price": ""
+            },
+            {
+              "title": "王子炒饭",
+              "img": "imgs/wzcf.png",
+              "price": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "帝王至尊",
+      "src": "imgs/card4.png",
+      "titleSrc": "imgs/title_4.png",
+      "price": "8888",
+      "introduceSrc": "imgs/detail_4.png",
+      "cooker":["imgs/cstj4.png"],
+      "print_bg":"imgs/print_bg4.jpg",
+      "dishes": [
+        {
+          "title": "海鲜贝壳类",
+          "menuSrc": "imgs/menu_item_haixian.png",
+          "menuSrc_sel": "imgs/menu_item_haixian_sel.png",
+          "shooseSrc": "imgs/choose_haixian.png",
+          "titleSrc": "imgs/title_haixian.png",
+          "max": 2,
+          "list": [
+            {
+              "title": "红烧野生大黄鱼",
+              "img": "imgs/hsysdhy.png"
+            },
+            {
+              "title": "咖喱九节虾",
+              "img": "imgs/gljjx.png"
+            },
+            {
+              "title": "咖喱膏蟹",
+              "img": "imgs/glgx.png",
+              "price": ""
+            },
+            {
+              "title": "烹汁天皇贝",
+              "img": "imgs/pzthb.png"
+            },
+            {
+              "title": "清蒸东星斑",
+              "img": "imgs/qzdxb.png",
+              "price": ""
+            },
+            {
+              "title": "清蒸海红斑",
+              "img": "imgs/qzhhb.png"
+            },
+            {
+              "title": "清蒸老鼠斑",
+              "img": "imgs/qzlsb.png"
+            },
+            {
+              "title": "清蒸龙利鱼",
+              "img": "imgs/qzlly.png",
+              "price": ""
+            },
+            {
+              "title": "清蒸西星斑",
+              "img": "imgs/qzxxb.png"
+            },
+            {
+              "title": "清蒸芝麻斑",
+              "img": "imgs/qzzmb.png"
+            },
+            {
+              "title": "上汤焗澳洲龙虾",
+              "img": "imgs/stjazlx.png"
+            },
+            {
+              "title": "水晶虾仁",
+              "img": "imgs/sjxr.png"
+            },
+            {
+              "title": "蒜蓉粉丝蒸元贝皇",
+              "img": "imgs/srfszybh.png"
+            }
+          ]
+        },
+        {
+          "title": "葷菜",
+          "menuSrc": "imgs/menu_item_huncai.png",
+          "menuSrc_sel": "imgs/menu_item_huncai_sel.png",
+          "shooseSrc": "imgs/choose_huncai.png",
+          "titleSrc": "imgs/title_huncai.png",
+          "max": 5,
+          "list": [
+            {
+              "title": "鲍罗万象",
+              "img": "imgs/blwx.png",
+              "price": ""
+            },
+            {
+              "title": "鲍鱼炒野山猪肉",
+              "img": "imgs/bycyszr.png",
+              "price": ""
+            },
+            {
+              "title": "鹅肝酱龙吐珠",
+              "img": "imgs/egjltz.png",
+              "price": ""
+            },
+            {
+              "title": "红葱头爆雪牛",
+              "img": "imgs/hctbxn.png",
+              "price": ""
+            },
+            {
+              "title": "金牌京都骨",
+              "img": "imgs/jpjdg.png",
+              "price": ""
+            },
+            {
+              "title": "芦笋百合羊肚菌",
+              "img": "imgs/lsbhydj.png",
+              "price": ""
+            },
+            {
+              "title": "牛肝菌爆虾球",
+              "img": "imgs/ngjbxq.png",
+              "price": ""
+            },
+            {
+              "title": "烹汁鱈魚鹅肝",
+              "img": "imgs/pzxyeg.png",
+              "price": ""
+            },
+            {
+              "title": "手撕羊排",
+              "img": "imgs/ssyp.png",
+              "price": ""
+            },
+            {
+              "title": "鲜松茸爆螺片",
+              "img": "imgs/xsrblp.png",
+              "price": ""
+            },
+            {
+              "title": "香煎牛肝菌",
+              "img": "imgs/xjngj.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "涼菜",
+          "menuSrc": "imgs/menu_item_liangcai.png",
+          "menuSrc_sel": "imgs/menu_item_liangcai_sel.png",
+          "shooseSrc": "imgs/choose_liangcai.png",
+          "titleSrc": "imgs/title_liangcai.png",
+          "max": 8,
+          "list": [
+            {
+              "title": "白玉拌螺头",
+              "img": "imgs/byblt.png"
+            },
+            {
+              "title": "脆瓜拌鲍鱼仔",
+              "img": "imgs/cgbbyz.png"
+            },
+            {
+              "title": "剁椒海蜇头",
+              "img": "imgs/djhzt.png"
+            },
+            {
+              "title": "风生水起",
+              "img": "imgs/fssq.png"
+            },
+            {
+              "title": "黑椒牛肉拼盘",
+              "img": "imgs/hjnrpp.png"
+            },
+            {
+              "title": "花菜拌赤贝",
+              "img": "imgs/hcbcb.png"
+            },
+            {
+              "title": "康巴牦牛肉",
+              "img": "imgs/kbmnr.png"
+            },
+            {
+              "title": "泼辣东星斑扣",
+              "img": "imgs/pldxbk.png"
+            },
+            {
+              "title": "水晶山药紫薯",
+              "img": "imgs/sjsyzs.png"
+            },
+            {
+              "title": "泰式虾仁沙拉",
+              "img": "imgs/tsxrsl.png"
+            },
+            {
+              "title": "香椿豆腐",
+              "img": "imgs/xcdf.png"
+            },
+            {
+              "title": "香椿核桃仁",
+              "img": "imgs/xchtr.png"
+            },
+            {
+              "title": "烟熏三文鱼",
+              "img": "imgs/yxswy.png"
+            },
+            {
+              "title": "烟熏鸭胸拼心里美",
+              "img": "imgs/yxyxpxlm.png"
+            }
+          ]
+        },
+        {
+          "title": "水果",
+          "menuSrc": "imgs/menu_item_shuiguo.png",
+          "menuSrc_sel": "imgs/menu_item_shuiguo_sel.png",
+          "shooseSrc": "imgs/choose_shuiguo.png",
+          "titleSrc": "imgs/title_shuiguo.png",
+          "max": 4,
+          "list": [
+            {
+              "title": "草莓",
+              "img": "imgs/cm.png"
+            },
+            {
+              "title": "橙子",
+              "img": "imgs/cz.png"
+            },
+            {
+              "title": "哈密瓜",
+              "img": "imgs/hmg.png"
+            },
+            {
+              "title": "火龙果",
+              "img": "imgs/hlg.png"
+            },
+            {
+              "title": "猕猴桃",
+              "img": "imgs/mht.png"
+            },
+            {
+              "title": "青红提子",
+              "img": "imgs/qhtz.png"
+            },
+            {
+              "title": "台湾青枣",
+              "img": "imgs/twqz.png"
+            },
+            {
+              "title": "西瓜",
+              "img": "imgs/xg.png"
+            }
+          ]
+        },
+        {
+          "title": "素菜",
+          "menuSrc": "imgs/menu_item_sucai.png",
+          "menuSrc_sel": "imgs/menu_item_sucai_sel.png",
+          "shooseSrc": "imgs/choose_sucai.png",
+          "titleSrc": "imgs/title_sucai.png",
+          "max": 2,
+          "list": [
+            {
+              "title": "百合蒸南瓜",
+              "img": "imgs/bhzng.png",
+              "price": ""
+            },
+            {
+              "title": "金华火腿浸津白胆",
+              "img": "imgs/jhhtqjbd.png",
+              "price": ""
+            },
+            {
+              "title": "百合露笋",
+              "img": "imgs/bhls.png",
+              "price": ""
+            },
+            {
+              "title": "露笋百合炒榆耳",
+              "img": "imgs/lsbhcye.png",
+              "price": ""
+            },
+            {
+              "title": "生炒广东菜心",
+              "img": "imgs/scgdcx.png",
+              "price": ""
+            },
+            {
+              "title": "田七菌上汤",
+              "img": "imgs/tqjst.png",
+              "price": ""
+            },
+            {
+              "title": "铁棍山药炒芦笋",
+              "img": "imgs/tgsycls.png",
+              "price": ""
+            },
+            {
+              "title": "鲜菇扒有机时蔬",
+              "img": "imgs/xgbyjss.png",
+              "price": ""
+            },
+            {
+              "title": "鲜竹笙炖奶白",
+              "img": "imgs/xzsdnb.png",
+              "price": ""
+            },
+            {
+              "title": "竹笙扒有机豆苗",
+              "img": "imgs/zsbyjdm.png",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "title": "汤类",
+          "menuSrc": "imgs/menu_item_tanglei.png",
+          "menuSrc_sel": "imgs/menu_item_tanglei_sel.png",
+          "shooseSrc": "imgs/choose_tanglei.png",
+          "titleSrc": "imgs/title_tanglei.png",
+          "max": 1,
+          "list": [
+            {
+              "title": "菜胆炖鲍翅",
+              "img": "imgs/cddbc.png"
+            },
+            {
+              "title": "冬虫夏草炖花胶海参汤",
+              "img": "imgs/dcxcdhjhst.png"
+            },
+            {
+              "title": "花胶炖响螺",
+              "img": "imgs/hjdxl.png"
+            },
+            {
+              "title": "鲜松茸炖花胶",
+              "img": "imgs/xsrdhj.png"
+            },
+            {
+              "title": "蟹黄烩金钩翅",
+              "img": "imgs/xhhjgc.png"
+            },
+            {
+              "title": "伊比利顿大连鲍翅",
+              "img": "imgs/yblddlbc.png"
+            }
+          ]
+        },
+        {
+          "title": "甜点类",
+          "menuSrc": "imgs/menu_item_tiandianlei.png",
+          "menuSrc_sel": "imgs/menu_item_tiandianlei_sel.png",
+          "shooseSrc": "imgs/choose_tiandianlei.png",
+          "titleSrc": "imgs/title_tiandianlei.png",
+          "max": 1,
+          "list": [
+            {
+              "title": "草莓卷",
+              "img": "imgs/cmj.png"
+            },
+            {
+              "title": "橙子蛋糕",
+              "img": "imgs/czdg.png"
+            },
+            {
+              "title": "点心拼盘",
+              "img": "imgs/dxpp.png"
+            },
+            {
+              "title": "歌剧蛋糕",
+              "img": "imgs/gjdg.png"
+            },
+            {
+              "title": "金牌南瓜酥",
+              "img": "imgs/jpngs.png"
+            },
+            {
+              "title": "绿茶糕",
+              "img": "imgs/lcg.png"
+            },
+            {
+              "title": "千层椰汁糕",
+              "img": "imgs/qcyzg.png"
+            },
+            {
+              "title": "芝士蛋糕",
+              "img": "imgs/zsdg.png"
+            }
+          ]
+        },
+        {
+          "title": "主菜",
+          "menuSrc": "imgs/menu_item_zhucai.png",
+          "menuSrc_sel": "imgs/menu_item_zhucai_sel.png",
+          "shooseSrc": "imgs/choose_zhucai.png",
+          "titleSrc": "imgs/title_zhucai.png",
+          "max": 2,
+          "list": [
+            {
+              "title": "葱烧海参",
+              "img": "imgs/cshs.png"
+            },
+            {
+              "title": "法式煎鹅肝",
+              "img": "imgs/fsjeg.png"
+            },
+            {
+              "title": "瓜环扣瑶柱皇",
+              "img": "imgs/ghkyzh.png"
+            },
+            {
+              "title": "果木炭牛扒",
+              "img": "imgs/gmtnp.png"
+            },
+            {
+              "title": "花雕皇蒸阿拉斯加蟹",
+              "img": "imgs/hdhzalsjx.png"
+            },
+            {
+              "title": "金牌烤乳猪",
+              "img": "imgs/jpkrz.png"
+            },
+            {
+              "title": "牛肝菌炒天皇贝",
+              "img": "imgs/ngjcthb.png"
+            },
+            {
+              "title": "烹汁鳕鱼鹅肝",
+              "img": "imgs/pzxyeg.png"
+            },
+            {
+              "title": "深井烧鹅",
+              "img": "imgs/sjse.png"
+            },
+            {
+              "title": "松露红烧狮子头",
+              "img": "imgs/slhsszt.png"
+            }
+          ]
+        },
+        {
+          "title": "主食",
+          "menuSrc": "imgs/menu_item_zhushi.png",
+          "menuSrc_sel": "imgs/menu_item_zhushi_sel.png",
+          "shooseSrc": "imgs/choose_zhushi.png",
+          "titleSrc": "imgs/title_zhushi.png",
+          "max": 1,
+          "list": [
+            {
+              "title": "地中海鱼籽炒饭",
+              "img": "imgs/dzhyzcf.png"
+            },
+            {
+              "title": "鹅肝炒饭",
+              "img": "imgs/egcf.png"
+            },
+            {
+              "title": "海皇烩意面",
+              "img": "imgs/hhhym.png"
+            },
+            {
+              "title": "黑鱼子酱炒饭",
+              "img": "imgs/hyzjcf.png"
+            },
+            {
+              "title": "王子炒饭",
+              "img": "imgs/wzcf.png"
+            },
+            {
+              "title": "雪花牛肉炒饭",
+              "img": "imgs/xhnrcf.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

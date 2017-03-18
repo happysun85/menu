@@ -1,0 +1,53 @@
+body, html {
+  height: 100%;
+  font-size: 14px;
+  color: #4A4A4A;
+  font-family: 'Microsoft YaHei';
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+.font_num{
+  font-family: 'Times-Roman';
+}
+li{
+  list-style-type: none;
+}
+#warning{
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  width: 100%;
+  height: 100%;
+  background: url(../imgs/tip_portrait.jpg) no-repeat center center;
+}
+.back:active{
+  background:url('../imgs/btn_back_sel.jpg')!important;
+}
+.confirm:active{
+  background:url('../imgs/btn_ok_sel.jpg')!important;
+}
+.form:active{
+  background:url('../imgs/btn_submit_sel.jpg')!important;
+}
+.print:active{
+  background:url('../imgs/btn_print_sel.jpg')!important;
+}
+.reset:active{
+  background:url('../imgs/btn_resel_sel.jpg')!important;
+}
+/*
+@media screen and (min-width: 768px) {
+    #warning{
+      display: block;
+    }
+}
+@media screen and (max-width: 768px) {
+    #warning{
+      display: none;
+    }
+}
+*/

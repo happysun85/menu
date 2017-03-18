@@ -1,0 +1,150 @@
+#intro {
+  position: relative;
+  min-height: 1024px;
+}
+
+#bg{
+  position: fixed;
+  left: 0;
+}
+#intro .titleSrc {
+  position: fixed;
+
+}
+#intro .btns {
+  position: absolute;
+  width: 200px;
+  height: 30px;
+}
+#intro .btns > div {
+  display: inline-block;
+}
+#intro .btns .form {
+  display: none;
+  width: 111px;
+  height: 30px;
+  background: url('../imgs/btn_submit.jpg');
+}
+#intro .btns .show{
+  display: inline-block;
+}
+#intro .btns .back {
+  width: 79px;
+  height: 30px;
+  background: url('../imgs/btn_back.jpg');
+}
+/*#intro > div {
+  position: absolute;
+}*/
+#intro > .content {
+  position: absolute;
+  left: 214px;
+  top: 180px;
+  width: 480px;
+}
+#intro > .content > div {
+  float: left;
+}
+#intro .content .albumTitle {
+  width: 91px;
+  height: 17px;
+  background:url('../imgs/title_taocan.png') no-repeat center center;
+  font-size: 16px;
+}
+#intro .albumIntroduce {
+  margin-top: 19px;
+  width: 480px;
+  line-height: 25px;
+}
+#intro .content .cooker{
+  width: 100%;
+  margin-top: 60px;
+}
+#intro .content .cooker > div {
+  display:inline-block;
+}
+#intro .content .cooker > div:nth-child(1){
+  float: left;
+}
+#intro .content .cooker > div:nth-child(2){
+  float: right;
+}
+#intro .content .count {
+  margin-top: 80px;
+  width: 480px;
+}
+#intro .content .count > div {
+  margin-right: 60px;
+  margin-bottom: 20px;
+  position: relative;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  /*background: url('../imgs/menu_btn_bg.png') no-repeat center center;
+  -webkit-background-size: contain; background-size: contain;*/
+}
+#intro .content .count > div.cr {
+  margin-right: 0;
+}
+/*#intro > div .count > div:nth-child(1) {
+  left: 0;
+}
+#intro > div .count > div:nth-child(2) {
+  left: 50%;
+  margin-left: -60px;
+}
+#intro > div .count > div:nth-child(3) {
+  right: 0;
+}*/
+#intro .content .count > div img {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+}
+#intro .content .count > div .number {
+  position: absolute;
+  left: 46px;
+  top: 32px;
+  width: 60px;
+  text-align: center;
+  font-size: 48px;
+}
+/*ºáÆÁÄ»*/
+@media screen and (min-width: 768px) {
+  #bg{
+      top:200px;
+    }
+  #intro .titleSrc{
+    top: 54px;
+    left: 190px;
+  }
+  #intro .btns{
+    left: 646px;
+    top: 54px;
+  }
+  #intro > .content{
+    left: 360px;
+    top: 180px;
+    padding-bottom: 40px;
+  }
+}
+/*ÊúÆÁ*/
+@media screen and (max-width: 768px) {
+  #bg{
+        top:400px;
+      }
+  #intro .titleSrc{
+    top: 54px;
+     left: 74px;
+  }
+  #intro .btns{
+    left: 493px;
+    top: 54px;
+  }
+  #intro > .content{
+    left: 214px;
+    top: 180px;
+    padding-bottom: 100px;
+  }
+}

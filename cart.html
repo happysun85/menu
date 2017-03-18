@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title></title>
+<link rel="stylesheet" href="css/common.css"/>
+<link rel="stylesheet" href="css/cart.css"/>
+</head>
+<body ng-app="myApp" ng-controller="cart">
+<div id="cart" style="background:url({{printBg}}) repeat-y">
+  <img id="bg" src="imgs/bg2.jpg" alt=""/>
+  <img class="titleSrc" ng-src="{{titleSrc}}" alt=""/>
+  <div class="content">
+    <div class="btns">
+      <div class="reset" ng-click="back()"></div>
+      <div class="print" ng-click="print()"></div>
+    </div>
+    <div class="list" ng-repeat="item in albums">
+      <div class="title" ng-repeat="(k,v) in item">【 &nbsp;&nbsp;<span ng-bind="k"></span>&nbsp;&nbsp;】</div>
+      <div class="box" ng-repeat="(k,v) in item">
+        <div class="item" ng-repeat="val in v">
+          <span ng-bind="val.title"></span>
+          <span class="delete" ng-click="delete(k,val.title)">删除</span>
+          <span>1份</span>
+        </div>
+      </div>
+    </div>
+    <div class="count" ng-bind="count">
+    </div>
+    <p>图片仅供参考，以实物为准</p>
+    <div class="bottom_btns">
+      <div class="price">价格&nbsp;&nbsp;<span ng-bind="price"></span>&nbsp;RMB</div>
+      <div class="reset" ng-click="back()"></div>
+      <div class="print" ng-click="print()"></div>
+    </div>
+  </div>
+</div>
+<div id="warning">
+
+</div>
+<script src="js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/angular.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/cart.js" type="text/javascript" charset="utf-8"></script>
+</body>
+</html>

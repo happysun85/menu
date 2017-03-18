@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>厨师推荐</title>
+<link rel="stylesheet" href="css/common.css"/>
+<link rel="stylesheet" href="css/cooker.css"/>
+</head>
+<body>
+<div id="intro" ng-app="myApp" ng-controller="titleSrc">
+  <img id="bg" src="imgs/bg2.jpg" alt=""/>
+  <img class="titleSrc" ng-src="{{titleSrc}}" alt=""/>
+  <div class="bt">
+    <div class="form {{select}}" ng-click="confirm()"></div>
+    <div class="back" ng-click="back()" style="float: right;"></div>
+  </div>
+  <div class="btns">
+    <div class="form show" ng-click="confirm()"></div>
+    <div class="back" ng-click="back()" style="float: right;"></div>
+  </div>
+  <div class="content">
+    <img width="176" ng-src="{{cooker}}">
+  </div>
+</div>
+<script src="js/angular.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/cooker.js" type="text/javascript" charset="utf-8"></script>
+</body>
+</html>
