@@ -1,11 +1,14 @@
 body, html {
-  position: relative;
   margin: 0 auto;
   width: 768px;
-  height: 1024px;
   font-size: 14px;
   color: #4A4A4A;
   font-family: 'Microsoft YaHei';
+}
+body > div {
+  position: relative;
+  width: 768px;
+  height: 1024px;
 }
 * {
   margin: 0;
